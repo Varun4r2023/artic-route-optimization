@@ -182,7 +182,7 @@ pip install -r requirements.txt
 To get started with the project, clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/Yash22222/Arctic-Route-Optimization-System.git
+git clone https://github.com/Varun4r2023/artic-route-optimization.git
 ```
 
 Navigate to the project directory:
@@ -283,7 +283,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or inquiries, feel free to contact the project maintainers:
-
-- **Project Lead**:- [Yash Shirsath](mailto:yashshirsath2410@gmail.com)
-- **GitHub**:- [Yash22222](https://github.com/Yash22222)
+Project Lead:- Varun Rasal
+GitHub:- https://github.com/Varun4r2023
 
